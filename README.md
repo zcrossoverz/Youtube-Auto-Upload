@@ -37,7 +37,7 @@ with open("video.mp4", "wb") as file:
 2. Example upload file on colab to youtube
 
 ```
-!cd Youtube-Auto-Upload && python2.7 youtube.py --file="video.mp4" --title="Test api upload" --description="Nhan dep trai" --keywords="crossover" --privacyStatus="private"
+!cd Youtube-Auto-Upload && python2.7 youtube.py --file="../video.mp4" --title="Test api upload" --description="Nhan dep trai" --keywords="crossover" --privacyStatus="private"
 ```
 
 
