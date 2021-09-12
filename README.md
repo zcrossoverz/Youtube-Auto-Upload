@@ -1,6 +1,6 @@
 ﻿# Youtube-Auto-Upload
  
- ### Auto upload video from url using Google colab and Youtube Api v3
+ ### Auto upload video from url and post to Youtube using Google colab and Youtube Api v3
  
  ## Installation:
  
